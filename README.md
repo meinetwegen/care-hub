@@ -26,5 +26,5 @@ An IoT-based solution for elderly safety, featuring a web dashboard for caregive
 2. Create a `.env` file in the root directory:
    ```env
    VITE_TELEGRAM_BOT_TOKEN=your_bot_token
-   VITE_ADAFRUIT_USER=Lexxs
+   VITE_ADAFRUIT_USER=your_adafruit_user
    VITE_ADAFRUIT_KEY=your_aio_key
